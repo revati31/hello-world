@@ -1,2 +1,2 @@
 # hello-world
-Hello world Program for beginner !!!!
+Hello world Program for beginners !!!!
